@@ -1,0 +1,4 @@
+ipwhois
+termcolor
+pandas
+openpyxl
