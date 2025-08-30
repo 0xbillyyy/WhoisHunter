@@ -19,11 +19,11 @@ Hasil akan disimpan dalam file **Excel (.xlsx)** agar mudah dianalisis lebih lan
 ---
 
 ## 📂 Struktur Proyek
-├── whois_lookup.py # main script
-├── wordlist.txt # daftar domain yang akan dicek
-├── requirements.txt # file dependency
-├── output/ # folder hasil export Excel
-└── README.md # dokumentasi
+├── whois_lookup.py # main script<br>
+├── wordlist.txt # daftar domain yang akan dicek<br>
+├── requirements.txt # file dependency<br>
+├── output/ # folder hasil export Excel<br>
+└── README.md # dokumentasi<br>
 
 ---
 
@@ -66,3 +66,4 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 Copyright (c) 2025 **0xbilly**
+
