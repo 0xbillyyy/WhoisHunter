@@ -1,3 +1,5 @@
+<img width="996" height="618" alt="image" src="https://github.com/user-attachments/assets/0bcdc99c-a7cc-4491-8002-153f75418693" />
+
 # 🕵️‍♂️ Whois Lookup Automation
 
 Sebuah tool sederhana untuk melakukan **WHOIS & RDAP Lookup** secara otomatis pada daftar domain.  
@@ -66,4 +68,5 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 Copyright (c) 2025 **0xbilly**
+
 
